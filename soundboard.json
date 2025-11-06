@@ -5,7 +5,7 @@
   },
   {
     "file": "AmogusSussy.wav",
-    "name": "Sussy"
+    "name": "Among us - you're the Impostor"
   },
   {
     "file": "pause-or-balls-which-one.wav",
@@ -322,5 +322,41 @@
   {
     "file": "LoudEagleSound.mp3",
     "name": "Loud eagle sound"
+  },
+  {
+    "file": "chicken-jockey_GjALZqG.mp3",
+    "name": "Chicken Jockey!"
+  },
+  {
+    "file": "ding-sound-effect_1.mp3",
+    "name": "Ding"
+  },
+  {
+    "file": "extremely-loud-incorrect-buzzer_0cDaG20.mp3",
+    "name": "Extremely loud incorrect buzzer"
+  },
+  {
+    "file": "gta-v-death-sound-effect-102.mp3",
+    "name": "GTA V Death Sound Effect"
+  },
+  {
+    "file": "metal-pipe-meme_r77fH3y.mp3",
+    "name": "Metal pipe"
+  },
+  {
+    "file": "roblox-death-sound_1.mp3",
+    "name": "Roblox death sound (OOF)"
+  },
+  {
+    "file": "veryloudairhorn.mp3",
+    "name": "Very loud air horn"
+  },
+  {
+    "file": "why-are.mp3",
+    "name": "Why are you running"
+  },
+  {
+    "file": "wii-sports-strike.mp3",
+    "name": "Strike (Wii Sports)"
   }
 ]
