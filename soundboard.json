@@ -2,8 +2,8 @@
   {
     "file": "Fard.wav",
     "name": "Fard",
-    "buttonHue": 0,
-    "buttonSaturation": 90
+    "buttonHue": 40,
+    "buttonSaturation": 60
   },
   {
     "file": "AmogusSussy.wav",
@@ -14,38 +14,38 @@
   {
     "file": "pause-or-balls-which-one.wav",
     "name": "Ballz",
-    "buttonHue": 20,
+    "buttonHue": 60,
     "buttonSaturation": 90
   },
   {
     "file": "vineboom.wav",
     "name": "Vineboom",
     "buttonHue": 120,
-    "buttonSaturation": 100
+    "buttonSaturation": 70
   },
   {
     "file": "laughing-chihuahua.mp3",
     "name": "Laughing Chihuahua",
-    "buttonHue": 40,
-    "buttonSaturation": 90
+    "buttonHue": 50,
+    "buttonSaturation": 100
   },
   {
     "file": "ClickityClackity.wav",
     "name": "Clickity Clackity",
-    "buttonHue": 200,
-    "buttonSaturation": 70
+    "buttonHue": 210,
+    "buttonSaturation": 30
   },
   {
     "file": "aughhhhh.wav",
     "name": "Aughhhhh",
-    "buttonHue": 45,
-    "buttonSaturation": 95
+    "buttonHue": 60,
+    "buttonSaturation": 100
   },
   {
     "file": "bombastic-side-eye.wav",
     "name": "Bombastic Side Eye",
     "buttonHue": 270,
-    "buttonSaturation": 90
+    "buttonSaturation": 80
   },
   {
     "file": "bonk.wav",
@@ -57,25 +57,25 @@
     "file": "bruh.mp3",
     "name": "Bruh",
     "buttonHue": 240,
-    "buttonSaturation": 80
+    "buttonSaturation": 30
   },
   {
     "file": "can-i-haz-chezburger-pls.wav",
     "name": "Can I haz chezburger pls",
     "buttonHue": 40,
-    "buttonSaturation": 100
+    "buttonSaturation": 90
   },
   {
     "file": "clash-royale-hog-rider.wav",
     "name": "HOG RIDER",
     "buttonHue": 30,
-    "buttonSaturation": 90
+    "buttonSaturation": 100
   },
   {
     "file": "e_meme.wav",
     "name": "E",
-    "buttonHue": 130,
-    "buttonSaturation": 85
+    "buttonHue": 120,
+    "buttonSaturation": 100
   },
   {
     "file": "emotional-damage-meme.mp3",
@@ -86,7 +86,7 @@
   {
     "file": "fnaf.wav",
     "name": "Man singing FNAF",
-    "buttonHue": 280,
+    "buttonHue": 290,
     "buttonSaturation": 70
   },
   {
@@ -98,38 +98,38 @@
   {
     "file": "goofy-ahh-car-horn-sound-effect.wav",
     "name": "Goofy car horn",
-    "buttonHue": 60,
+    "buttonHue": 100,
     "buttonSaturation": 100
   },
   {
     "file": "goofy-ahh-runnin.wav",
     "name": "Goofy running sounds",
-    "buttonHue": 110,
-    "buttonSaturation": 90
+    "buttonHue": 170,
+    "buttonSaturation": 100
   },
   {
     "file": "grubhub.wav",
     "name": "Grubhub",
-    "buttonHue": 40,
-    "buttonSaturation": 100
+    "buttonHue": 270,
+    "buttonSaturation": 90
   },
   {
     "file": "gulp-gulp-gulp.wav",
     "name": "Gulp gulp gulp",
-    "buttonHue": 230,
+    "buttonHue": 220,
     "buttonSaturation": 100
   },
   {
     "file": "he-he-he-ha.wav",
     "name": "He He He Ha!",
-    "buttonHue": 120,
+    "buttonHue": 260,
     "buttonSaturation": 90
   },
   {
     "file": "i-woke-up-in-a-new-bugatti.wav",
     "name": "I woke up in a new bugatti",
-    "buttonHue": 250,
-    "buttonSaturation": 90
+    "buttonHue": 240,
+    "buttonSaturation": 80
   },
   {
     "file": "im-lovin-it.wav",
@@ -152,8 +152,8 @@
   {
     "file": "john-cena-are-you-sure-about-that-greenscreen-improved-version.wav",
     "name": "Are you sure about that?",
-    "buttonHue": 130,
-    "buttonSaturation": 80
+    "buttonHue": 120,
+    "buttonSaturation": 100
   },
   {
     "file": "mine-diamonds.mp3",
@@ -164,8 +164,8 @@
   {
     "file": "nooo.wav",
     "name": "Nooooo!",
-    "buttonHue": 260,
-    "buttonSaturation": 80
+    "buttonHue": 240,
+    "buttonSaturation": 90
   },
   {
     "file": "rehehehe.mp3",
@@ -273,13 +273,13 @@
     "file": "SIGMA-BOY-PHONK-REMIX-.wav",
     "name": "SIGMA BOY PHONK REMIX",
     "buttonHue": 180,
-    "buttonSaturation": 90
+    "buttonSaturation": 10
   },
   {
     "file": "Sheesh-Tik-Tok-Audio-Sound-Effect.wav",
     "name": "Seesh",
-    "buttonHue": 50,
-    "buttonSaturation": 100
+    "buttonHue": 180,
+    "buttonSaturation": 80
   },
   {
     "file": "I-like-my-cheese-drippy-bruh.wav",
@@ -296,13 +296,13 @@
   {
     "file": "Donald-Trump-Macarena.wav",
     "name": "Donald Trump Macarena",
-    "buttonHue": 240,
-    "buttonSaturation": 90
+    "buttonHue": 0,
+    "buttonSaturation": 80
   },
   {
     "file": "Soup-Eating-Fart-Machine-meme-sound.wav",
     "name": "Soup eating fart machine",
-    "buttonHue": 30,
+    "buttonHue": 80,
     "buttonSaturation": 60
   },
   {
@@ -369,13 +369,13 @@
     "file": "Can-You-Feel-My-Heart-Gigachad.wav",
     "name": "Can you feel my heart gigachad",
     "buttonHue": 240,
-    "buttonSaturation": 20
+    "buttonSaturation": 10
   },
   {
     "file": "Bad-to-the-bone.wav",
     "name": "Bad to the bone",
     "buttonHue": 0,
-    "buttonSaturation": 90
+    "buttonSaturation": 0
   },
   {
     "file": "Woooo-Yeah-Baby-Meme-Sound-Effect.wav",
@@ -470,8 +470,8 @@
   {
     "file": "the_nether.wav",
     "name": "The nether",
-    "buttonHue": 0,
-    "buttonSaturation": 85
+    "buttonHue": 20,
+    "buttonSaturation": 100
   },
   {
     "file": "hungry.wav",
@@ -482,8 +482,8 @@
   {
     "file": "LoudEagleSound.mp3",
     "name": "Loud eagle sound",
-    "buttonHue": 200,
-    "buttonSaturation": 80
+    "buttonHue": 240,
+    "buttonSaturation": 90
   },
   {
     "file": "chicken-jockey_GjALZqG.mp3",
@@ -506,8 +506,8 @@
   {
     "file": "gta-v-death-sound-effect-102.mp3",
     "name": "GTA V Death Sound Effect",
-    "buttonHue": 10,
-    "buttonSaturation": 100
+    "buttonHue": 0,
+    "buttonSaturation": 0
   },
   {
     "file": "metal-pipe-meme_r77fH3y.mp3",
